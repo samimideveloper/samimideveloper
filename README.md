@@ -1,6 +1,6 @@
 # Mehdi Samimi
 
-![Header](https://media.giphy.com/media/YOUR_GIF_LINK_HERE/giphy.gif)
+<img src="[https://github.com/hosseinmd/hosseinmd/raw/master/hosseinmd-hosssein%20mohammadi.gif](https://raw.githubusercontent.com/samimideveloper/mehdisamimi/4c8115c1128dd2ff13067e25cc9916638775d9b6/mehdisamimi.gif)" alt="Coder GIF" width="250" height="200"/>
 
 ## About Me
 
