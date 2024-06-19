@@ -19,6 +19,6 @@ I am a passionate and dedicated Frontend Developer with a keen interest in creat
 
 Feel free to reach out to me through any of the platforms below:
 
-- [LinkedIn](https://www.linkedin.com/in/mehdi-samimi/)
-- [GitHub](https://github.com/mehdi-samimi)
-- [Email](mailto:mehdi.samimi@example.com)
+- [LinkedIn](https://www.linkedin.com/in/mahdisamimi/)
+- [GitHub](https://github.com/samimideveloper)
+- [Email](samimi.dev@gmail.com)
