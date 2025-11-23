@@ -1,37 +1,21 @@
-# Mehdi Samimi  
+# 💫 About Me:
+Hi there! I’m Mehdi Samimi, a creative and dedicated Frontend Developer with a passion for crafting seamless, interactive, and visually stunning web experiences. My development journey has empowered me with the ability to design and build applications that are not only robust and scalable but also delightful for users. I’m driven by curiosity, constantly exploring new tools and techniques to push the boundaries of what’s possible on the web.<br><br>🚀 I believe in blending technical expertise with design sensibility to bring ideas to life. If you’re looking for a developer who is as invested in your project as you are, let’s connect!
 
-<img src="https://raw.githubusercontent.com/samimideveloper/mehdisamimi/4c8115c1128dd2ff13067e25cc9916638775d9b6/mehdisamimi.gif" alt="Coder GIF" width="350" height="400"/>
 
-## 👨‍💻 About Me  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mahdisamimi/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samimi.dev@gmail.com) 
 
-Hi there! I’m **Mehdi Samimi**, a creative and dedicated **Frontend Developer** with a passion for crafting seamless, interactive, and visually stunning web experiences. My development journey has empowered me with the ability to design and build applications that are not only robust and scalable but also delightful for users. I’m driven by curiosity, constantly exploring new tools and techniques to push the boundaries of what’s possible on the web.  
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=samimideveloper&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=samimideveloper&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=samimideveloper&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-🚀 I believe in blending technical expertise with design sensibility to bring ideas to life. If you’re looking for a developer who is as invested in your project as you are, let’s connect!  
-
----
-
-## 🛠 Skills  
-
-💡 Tools of the Trade:  
-- **JavaScript** – Bringing logic to life.  
-- **React** – Creating dynamic and responsive interfaces.  
-- **Next.js** – Building fast, modern web applications.  
-- **TypeScript** – Ensuring code clarity and reliability.  
-- **HTML** – Structuring the web.  
-- **CSS** – Crafting beautiful, responsive designs.  
-
-⚡ Always learning: Exploring cutting-edge tools and frameworks to stay ahead in this ever-evolving tech landscape.  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=samimideveloper&theme=neon&no-frame=true&no-bg=false&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=samimideveloper&icon=1&color=5)](https://visitcount.itsvg.in)
 
-## 📬 Contact  
-
-Let’s build something amazing together! Connect with me:  
-
-- 🌐 **[LinkedIn](https://www.linkedin.com/in/mahdisamimi/)** – Let’s network and grow together.  
-- 💻 **[GitHub](https://github.com/samimideveloper)** – Check out my code and projects.  
-- 📧 **[Email](mailto:samimi.dev@gmail.com)** – Drop me a message anytime!  
-
----
-
-✨ Ready to transform your ideas into reality? Let’s create something extraordinary!  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
